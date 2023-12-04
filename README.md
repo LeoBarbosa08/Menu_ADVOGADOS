@@ -6,4 +6,10 @@
 <ul>- Client Registration </ul>
 <ul>- Search for lawyers in a especific area </ul>
 <ul>- Edit lawyer|client profile </ul>
+<ul>- Login validation for clients and lawyers </ul>
+
+
 </b>
+
+- You can run this application without import nothing
+  
